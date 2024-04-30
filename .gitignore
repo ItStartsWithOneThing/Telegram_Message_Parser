@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+
+# Игнорирование папки Secrets
+Telegram_Message_Parser/Secrets/
